@@ -9,6 +9,6 @@ To run this project on your machine you need to install  [Microsoft Power BI]([w
 
 # Tools
 -----
-. Microsoft Power BI 
-. Power Query 
-. Dax Query 
+* Microsoft Power BI 
+* Power Query 
+* Dax Query 
