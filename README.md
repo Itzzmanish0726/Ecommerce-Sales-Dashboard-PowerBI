@@ -3,12 +3,12 @@ The project presents a comprehensive analysis of an e-commerce business, utilizi
 
 Aim :- This project aims to provide a clear and actionable understanding of the e-commerce business and its various components, helping identify areas for improvement and growth.
 
-#Installation
+# Installation
 -----
 To run this project on your machine you need to install  [Microsoft Power BI]([www.google.com](https://powerbi.microsoft.com/en-us/downloads/)https://powerbi.microsoft.com/en-us/downloads/).
 
-#Tools
+# Tools
 -----
-1. Microsoft Power BI 1
-2. Power Query 2
-3. Dax Query 3
+. Microsoft Power BI 
+. Power Query 
+. Dax Query 
