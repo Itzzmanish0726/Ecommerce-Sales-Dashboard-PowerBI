@@ -5,4 +5,10 @@ Aim :- This project aims to provide a clear and actionable understanding of the 
 
 #Installation
 -----
-To run this project on your machine you need to install  [Microsoft Power BI]([www.google.com](https://powerbi.microsoft.com/en-us/downloads/)https://powerbi.microsoft.com/en-us/downloads/)
+To run this project on your machine you need to install  [Microsoft Power BI]([www.google.com](https://powerbi.microsoft.com/en-us/downloads/)https://powerbi.microsoft.com/en-us/downloads/).
+
+#Tools
+-----
+1. Microsoft Power BI 1
+2. Power Query 2
+3. Dax Query 3
