@@ -12,3 +12,7 @@ To run this project on your machine you need to install  [Microsoft Power BI]([w
 * Microsoft Power BI 
 * Power Query 
 * Dax Query 
+
+# Power BI Dashboard Visualisation
+-----
+![Uploading 242144799-09a8d343-d279-4bb0-940c-fd4829f75674.png…]()
