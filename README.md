@@ -18,8 +18,9 @@ To run this project on your machine you need to install  [Microsoft Power BI](ht
 
 
 
+![Ecommerce Sales Dashboard](https://github.com/Itzzmanish0726/Ecommerce-Sales-Dashboard-PowerBI/assets/83570196/a741c68f-566a-499b-abfe-a410a3df7738)
 
-![dark-gradient](https://github.com/Itzzmanish0726/Ecommerce-Sales-Dashboard-PowerBI/assets/83570196/39ffc211-bccf-4255-bdba-2682c412e208)
+
 
 
 The E-commerce business Power BI Dashboard visualizes key performance indicators(KPI) including Total Profit, Sales, Total Quantity, No. of Orders, Profit Margin%. It showcases the trend of Sales and Profit for each month, the Category-wise Profits and Sales, Sales by States, top customers and Category-wise Sales%. Additionally, the top 5 sub-categories by Sales are also displayed. The dashboard includes filters like years, regions, and segments.
